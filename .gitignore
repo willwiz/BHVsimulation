@@ -12,6 +12,7 @@ Thumbs.db
 
 *.bak
 *.sav
+*.idea
 
 /results
 /test.nb
